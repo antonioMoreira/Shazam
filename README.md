@@ -1,2 +1,2 @@
-# Shazan
+# Shazam
 Trying to create Shazan
