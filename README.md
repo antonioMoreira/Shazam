@@ -1,2 +1,2 @@
 # Shazam
-Trying to create Shazan
+Trying to create Shazam
